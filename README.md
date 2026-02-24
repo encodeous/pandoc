@@ -12,7 +12,7 @@ Make sure `pandoc` is also installed, along with pdflatex (or some other latex) 
 
 (This only works on a unix machine, so you Windows users may want to use WSL)
 
-If you want to try it out, you can simply clone this gist, and open it up in VSCode.
+If you want to try it out, you can simply clone this repo, and open it up in VSCode.
 
 ## Editing
 
