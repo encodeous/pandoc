@@ -1,0 +1,21 @@
+{
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "on",
+            "strings": "on"
+        },
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.wordBasedSuggestions": "matchingDocuments",
+        "editor.suggest.showKeywords": true,
+        "editor.suggest.showSnippets": true
+    },
+    "triggerTaskOnSave.tasks": {
+        "Convert MD to PDF": [
+            "*.md"
+        ]
+    },
+    "triggerTaskOnSave.on": true,
+    "triggerTaskOnSave.showNotifications": false,
+    "triggerTaskOnSave.restart": true,
+}

@@ -3,6 +3,7 @@ Here is what I personally use to write assignments, using the power of [Pandoc](
 ## Getting Started
 
 My main editor is just VSCode, with the following extensions:
+
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.triggertaskonsave
 - https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
@@ -20,3 +21,7 @@ Simply edit any `<file>.md` file, and hit save.
 - Typically this is very fast, taking about 1 second, and the LaTeX workshop extension will auto refresh the PDF!
 
 If you want to learn more about what is possible, you can read the [Pandoc User's Guide](https://pandoc.org/MANUAL.html)
+
+## Example
+
+If you want to see an example of what you can do, check out `example.md`! It has a mix of markdown and latex, and shows off some of the features you can use.
