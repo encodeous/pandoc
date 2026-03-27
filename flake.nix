@@ -21,9 +21,9 @@
       };
     in 
     {
-      devShell = with pkgs; mkShell {
-        name = "pandoc-latex-shell";
-        packages = with pkgs; [
+      packages.default = pkgs.symlinkJoin {
+        name = "pandoc-latex";
+        paths = with pkgs; [
           pandoc
           haskellPackages.pandoc-crossref
           
