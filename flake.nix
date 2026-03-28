@@ -16,9 +16,10 @@
         latexmk
 
         fontawesome5
-        pgf
-        graphics
-        algorithms;
+        nth
+        algorithms
+        collection-latexextra
+        collection-fontsrecommended;
       };
     in 
     {
