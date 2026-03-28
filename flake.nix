@@ -15,6 +15,7 @@
         scheme-basic
         latexmk
 
+        fontawesome5
         pgf
         graphics
         algorithms;
